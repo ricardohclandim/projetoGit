@@ -1,3 +1,3 @@
 # Criando o arquivo readme.md
 
-![C:\Users\rick\projetoGit\moon.jpg]
+![.\moon.jpg]
